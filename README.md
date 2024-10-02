@@ -45,6 +45,7 @@ An external scheduler will ping the `/jobs/airdrop/retry` endpoint every minute.
 4. Implement proper concurrency control to handle multiple simultaneous requests.
 5. Include appropriate error handling and logging.
 6. Write unit tests using Jest.
+7. Include inline documentation to explain complex logic, key design decisions, and algorithmic approaches, where appropriate.
 
 ## Evaluation Criteria
 
